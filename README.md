@@ -10,6 +10,6 @@ Tout d'abord les médias visuels. Voici les blocs qui vont tomber du ciel j'ai c
 
 https://kenney.nl/assets/brick-pack *source : kenney* 
 
-Ensuite les médias audio. J<ai décidé d<utiliser la musique ci-dessous en tant que musique de background : 
+Ensuite les médias audio. J'ai décidé d'utiliser la musique ci-dessous en tant que musique de background : 
 
 https://www.instagram.com/just.elyons/ *source : Pixabay* 
