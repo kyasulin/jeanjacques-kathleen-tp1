@@ -6,7 +6,7 @@ J'ai décidé de créer un petit jeu de block. Le bloc se trouvera toujours en h
 
 Voici les média que je vais utiliser pour effectuer ce projet : 
 
-Tout d'abord les médias visuels, les blocs qui vont tomber du ciel : 
+Tout d'abord les médias visuels. Voici les blocs qui vont tomber du ciel j'ai choisi d'utiliser ceux-la1 parce qu'ils sont sur un site gratuit avec des médias libres de droits : 
 
 https://kenney.nl/assets/brick-pack *source : kenney* 
 
